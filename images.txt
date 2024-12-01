@@ -1,2 +1,1 @@
-tomcat:9.0.97-jre8
-tomcat:10.1.11-jre17
+nacos/nacos-server:v2.4.3
