@@ -1,4 +1,1 @@
-snowdreamtech/frps:0.47.0
-snowdreamtech/frps:0.61.0
-snowdreamtech/frpc:0.47.0
-snowdreamtech/frpc:0.61.0
+surveyking/surveyking:v1.8.2
