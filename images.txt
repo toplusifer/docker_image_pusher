@@ -1,1 +1,6 @@
-nacos/nacos-server:v2.4.3
+seataio/seata-server:1.8.0.2
+apache/rocketmq:5.3.1
+elasticsearch:7.16.3
+elasticsearch:8.16.1
+kibana:7.16.3
+kibana:8.16.1
