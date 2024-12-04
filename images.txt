@@ -1,1 +1,1 @@
-uozi/nginx-ui:latest
+uozi/nginx-ui:v2.0.0-beta.39
