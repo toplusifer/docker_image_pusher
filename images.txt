@@ -1,1 +1,2 @@
-uozi/nginx-ui:v2.0.0-beta.39
+ghcr.io/open-webui/open-webui:main
+ollama/ollama:latest
