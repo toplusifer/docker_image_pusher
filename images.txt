@@ -1,2 +1,1 @@
-ghcr.io/open-webui/open-webui:main
-ollama/ollama:latest
+mouday/domain-admin:latest
