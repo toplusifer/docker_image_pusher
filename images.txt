@@ -1,1 +1,2 @@
-mouday/domain-admin:latest
+redis:6-alpine
+redis:latest
